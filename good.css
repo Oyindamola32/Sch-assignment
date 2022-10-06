@@ -1,0 +1,22 @@
+h1{font-family:Arial Black; font-size:55px; text-decoration:underline; color:#ffoooo text-align:center;}
+h2{font-family:Arial; font-size:17px; text-decoration:none; color:#900; text-align:center;}
+h3{font-family:Courier New; font-size:20px; text-decoration:none; color:black;}
+p {font-family:sans-serif; font-size:18px; text-decoration:none; color:#000000}
+ol{font-family:Cursive; letter-spacing:normal font-size:18px color:#900;}
+ul{font-family:"Comic Sans Ms"; letter-spacing:normal; font-size:16px; color:#900;}
+.content{font-family:Cursive; letter-spacing:normal; font-size:16px; text-decoration:none; color:#00cc00;
+font-weight:bold}
+
+footer {background-color:21f82b; padding:10px; text-align:center; color:white; width="40px" height="40%"}
+
+a {font-family:"Times New Roman";times,serif; text-decoration:none; color:#ff00ff}
+a:hover{text-decoration:underline; color:#00ffff}
+a:lowerlink{font-family:Arial Black; text-decoration:none; color:#00ff00; font-weight:bold}
+lowerlink {font-family:Lucida; text-decoration:none; color:#0033cc}
+.lowerlink hover{text-decoration:underline; color:yellow}
+
+a:link{color:green; background-color:transparent; text-decoration:none;}
+a:visited{color:pink; background-color:black; text-decoration:blink;}
+a:hover{color:red; background-color:black; text-decoration:underline;}
+a:active{color:yellow; background-color:transparent; text-decoration:underline;}
+
