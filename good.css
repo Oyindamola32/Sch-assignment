@@ -20,3 +20,4 @@ a:visited{color:pink; background-color:black; text-decoration:blink;}
 a:hover{color:red; background-color:black; text-decoration:underline;}
 a:active{color:yellow; background-color:transparent; text-decoration:underline;}
 
+body{background-color: inherit;}
